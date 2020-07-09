@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an Ecommerce project
-- 🌱 I’m currently learning React and Django, also brushing up javaScript and Python
+- 🌱 I’m currently learning technologies to become a Full Stack Developer
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Anything..
 - 📫 How to reach me: iamsafnas@gmail.com
