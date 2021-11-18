@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Ecommerce project
-- 🌱 I’m currently learning technologies to become a Full Stack Developer
+- 🔭 For A Telecom giant in USA
+- 🌱 a Full Stack Engineer
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Anything..
 - 📫 How to reach me: iamsafnas@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Edge is going to replace Chrome
+- ⚡ Fun fact: Edge is going to replace Chrome :P
 
 <!--
 **SafNaaz/SafNaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
