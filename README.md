@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 For A Telecom giant in USA
-- 🌱 a Full Stack Engineer
+- 🔭 For A Government agency in USA
+- 🌱 a Full Stack Developer
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Anything..
 - 📫 How to reach me: iamsafnas@gmail.com
